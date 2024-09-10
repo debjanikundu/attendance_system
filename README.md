@@ -49,6 +49,14 @@ Currently, **liveliness detection** (to prevent spoofing with photos or videos) 
 5.**keep your image in a folder named validation**
 6.**backend is done through firebase**
 
+**payroll integration**
+If the employee worked 6 hours or more, they receive the full-day payment.
+If they worked between 3 and 6 hours, they receive half the full-day payment.
+If they worked less than 3 hours, they receive no payment.
+
+Set the full-day payment amount (e.g., 100 units) when creating the PayrollIntegration object.
+Run the script to process attendance data and calculate payments based on the hours worked.
+
 ## Technologies Used
 
 - **Python**: For the core logic of the system.
