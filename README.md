@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project implements an **automated attendance system** using **face recognition** technology. It can recognize multiple faces at a time and automatically mark attendance for each recognized individual. The system logs the **entry and exit times** of employees, integrates with the **payroll system**, and ensures accurate tracking of working hours. 
+This project implements an **automated attendance system** using **face recognition** technology. It can recognize multiple faces at a time and automatically mark attendance for each recognized individual. The system logs the **entry and exit times** of employees, integrates with the **payroll system**, and ensures accurate tracking of working hours. After the entry time is updated only after the completion of  half of the working hour **(for conveience here i have given 60 sec)* exit time will be exited.moreover  5 secs since once the attendance is marked everytime the face is detected **attendance marked** will be shown.
 
 Currently, **liveliness detection** (to prevent spoofing with photos or videos) is under development to improve security.
 
