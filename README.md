@@ -46,6 +46,9 @@ Currently, **liveliness detection** (to prevent spoofing with photos or videos) 
    python main.py
    ```
 
+5.**keep your image in a folder named validation**
+6.**backend is done through firebase**
+
 ## Technologies Used
 
 - **Python**: For the core logic of the system.
