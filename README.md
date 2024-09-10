@@ -67,10 +67,3 @@ Currently, **liveliness detection** (to prevent spoofing with photos or videos) 
 
 Feel free to fork this repository, create issues, and submit pull requests to improve this project. Contributions towards liveliness detection and system optimizations are welcome.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to modify it according to your specific implementation and add any additional instructions or features you've worked on!
